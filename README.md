@@ -12,5 +12,7 @@
 <h2> Day 2 </h2>
 <ul><b> That day I learned:</b>
   <li> Type casting </li>
-  <li>Size and ranges different types</li>
+  <li> Size and ranges different types</li>
+  <li> Increment and decrement </li>
+  <li> Calling method </li>
 </ul>
