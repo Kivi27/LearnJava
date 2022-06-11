@@ -1,5 +1,5 @@
 # Diary
-# Day 1
+<h2> Day 1 </h2>
 <ul><b>That day I learned:</b> 
   <li> Basic literals </li>
   <li>  printing data</li>
@@ -9,7 +9,7 @@
   <li> naming variables</li>
   <li> arithmetic operation</li>
 </ul>
-# Day 2
+<h2> Day 2 </h2>
 <ul><b> That day I learned:</b>
   <li> Type casting </li>
   <li>Size and ranges different types</li>
