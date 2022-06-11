@@ -9,3 +9,8 @@
   <li> naming variables</li>
   <li> arithmetic operation</li>
 </ul>
+#Day 2
+<ul><b> That day I learned:</b>
+  <li> Type casting </li>
+  <li>Size and ranges different types</li>
+</ul>
