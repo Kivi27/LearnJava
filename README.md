@@ -22,4 +22,5 @@
   <li>Array and operation with Array </li>
   <li>Characters</li>
   <li>String </li>
+  <li>Boolean and logic operators </li>
 </ul>
