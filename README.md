@@ -17,3 +17,9 @@
   <li> Calling method </li>
   <li> Primite and reference type</li>
 </ul>
+<h2> Day 3 </h2>
+<ul><b> That day I learned:</b>
+  <li>Array and operation with Array </li>
+  <li>Characters</li>
+  <li>String </li>
+</ul>
