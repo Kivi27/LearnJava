@@ -15,4 +15,5 @@
   <li> Size and ranges different types</li>
   <li> Increment and decrement </li>
   <li> Calling method </li>
+  <li> Primite and reference type</li>
 </ul>
