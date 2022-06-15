@@ -24,3 +24,12 @@
   <li>String </li>
   <li>Boolean and logic operators </li>
 </ul>
+<h2> Day 4 </h2>
+<ul><b> That day I learned:</b>
+  <li>Relation operators </li>
+  <li>Conditional statement </li>
+  <li>ternary operator </li>
+  <li>while, do-while, for loop</li>
+  <li>braching statements</li>
+  <li>Iterationg over arrays</li>
+</ul>
