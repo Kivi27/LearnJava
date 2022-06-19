@@ -48,4 +48,5 @@
   <li> Octal number </li>
   <li> Convertion one system to another </li>
   <li> Floation points type </li>
+  <li> Functional decomposition</li>
 </ul> 
