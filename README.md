@@ -33,3 +33,19 @@
   <li>braching statements</li>
   <li>Iterationg over arrays</li>
 </ul>
+<h2> Day 5 </h2>
+<ul><b> That day I learned:</b>
+  <li> Multidemension array </li>
+  <li> IDEA basics </li>
+  <li> Switch statements </li>
+  <li> Formated Output </li>
+</ul> 
+<h3> As a result, the program created crosses zeros </h3>
+<h2> Day 6, Start project Number base converter </h2>
+<ul><b> That day I learned:</b>
+  <li> Binary numbers </li>
+  <li> Hexdecimal numbers </li>
+  <li> Octal number </li>
+  <li> Convertion one system to another </li>
+  <li> Floation points type </li>
+</ul> 
