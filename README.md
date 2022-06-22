@@ -50,3 +50,26 @@
   <li> Floation points type </li>
   <li> Functional decomposition</li>
 </ul> 
+<h2> Day 7</h2>
+<ul><b> That day I learned:</b>
+  <li> Overloading </li>
+  <li> Array as parameter </li>
+  <li> Final variables </li>
+  <li> What is exception </li>
+  <li> NPE </li>
+  <li> Introduction to OOP</li>
+</ul> 
+<h2> Day 8</h2>
+<ul><b> That day I learned:</b>
+  <li> Define class </li>
+  <li> Constructor </li>
+  <li> Instance method </li>
+  <li> Package </li>
+  <li> Access modifiries</li>
+  <li> Getters and Setters</li>
+  <li> Inheritance </li>
+  <li> Protected modifier </li>
+  <li> Referencing subclass object </li>
+  <li> object class </li>
+  <li> overloading constructor </li>
+</ul> 
