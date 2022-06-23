@@ -73,3 +73,12 @@
   <li> object class </li>
   <li> overloading constructor </li>
 </ul> 
+<h2> Day 9</h2>
+<ul><b> That day I learned:</b>
+  <li> The keyword super </li>
+  <li> Objects </li>
+  <li> Static member </li>
+  <li> Annotation </li>
+  <li> Hiding and Overriding </li>
+</ul> 
+
