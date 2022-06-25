@@ -81,4 +81,17 @@
   <li> Annotation </li>
   <li> Hiding and Overriding </li>
 </ul> 
-
+<h2> Day 10</h2>
+<ul><b> That day I learned:</b>
+  <li> Polymorphism </li>
+  <li> Interface </li>
+  <li> Computer algorithm</li>
+  <li> Pseudocode </li>
+  <li> The Big O notation </li>
+  <li> Data Structures </li>
+  <li> Immutability </li>
+  <li> Boxing and Unboxing </li>
+  <li> Introduction generic programming </li>
+  <li> Generic and Object </li>
+  <li> Intoduction Collection </li>
+</ul> 
