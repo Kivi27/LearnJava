@@ -94,4 +94,9 @@
   <li> Introduction generic programming </li>
   <li> Generic and Object </li>
   <li> Intoduction Collection </li>
+</ul>
+<h2> Day 11</h2>
+<ul><b> That day I learned:</b>
+  <li> The Collection framework overview </li>
+  <li> fixed array size </li>
 </ul> 
